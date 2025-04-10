@@ -1,0 +1,28 @@
+# macOS system files
+.DS_Store
+
+# IntelliJ / JetBrains
+.idea/
+*.iml
+
+# Kotlin / Gradle
+.gradle/
+build/
+out/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Spring Boot
+*.log
+
+# React frontend
+node_modules/
+frontend/build/
+
+# Environment files (optional, only if used)
+.env
+frontend/.env
+
+# OS / Misc
+*.swp
+*.bak
+*.tmp
